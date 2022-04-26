@@ -2,7 +2,7 @@ from mapGen import generateMap
 from mineGen import generateMinefield
 from playerMapFuncs import generatePlayerMap, playSpot, printPlayerMap, flagSpot
 
-print("Hello and welcome to my text-based Minesweeper game developed as a simple project")
+print("\nHello and welcome to my text-based Minesweeper game developed as a simple project")
 print("on my Python learning journey.")
 print("The map will be a square matrix whose size will be defined by you, the player.")
 print("The amount of mines will be 25% of the total map size rounded down.")
